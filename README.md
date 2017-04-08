@@ -217,5 +217,5 @@
 
 ##
 <hr>
-<p align="right" size"6"><b>by Arief Ismail</b></p>
+<p align="right" size"6"><b>by IRP</b></p>
 <p align="right" size"6"><b>Copyright Indo-Ware</b></p>
