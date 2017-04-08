@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://googledrive.com/host/0B2ko5BFRIXigekF3MmMta25pR3M/IMAG0555.jpg" alt="Indoware logo"/>
+  <img height="100" width="100" src="https://lh3.googleusercontent.com/qbiBaKphk3H5j2wQoQJGyv7u1xFipNW5lHNosBKs9TFwej8RHizx15jLvlWBYbEhorsKsCmJ96PZfSwdqHFkRkRGGGPPhH08BesM9KRf1EVQsVReNRhlYF7NtwsIPCiTOlaX8MCrawJZWLumW3ROvdhvfSZq0cqGIdAgoicsLQo0XHrHok4c7M5uqw3Q7aItn5am-yK_gMZuQXLElXmiuXWFpt62A1eshJhWufIayjikNElRg8X-u_wFwyMRzahUvkREE2rIAAsEPu9_czeUAEUoPw3SrrKwDJJpPGDHBmMyp8nhHA7MkxOrobxjeELnAUMYBPQ8Py6Ll0ozM80lzP5ZiE25tjzc01UTQpzMEeyYqwFUGCbDkRypZ2hApbhbbd_s5noZ3Ny2pgzwWGHq1Y7edNF8gDpLOLtB1tPmPEqzB9fdG4L5KvfOSaxzvkdB9bUMR_6VIwz8m2zGrM49PnFxu6o-nYNppZiN2IyFSsbnYj12oVYNYmYgxnHTGFEC-pikbGvMjOXto4Tk36gvfJ30In01KNSglvNkNdKATtxwoREUrPNkCiu2nvoCkA3O7N38Ra_a_ZTtBmg_AR6l-aghCmCrNiewnnm9WgoqXZfHzjqyueU=w1090-h613-no" alt="Indoware logo"/>
 </p>
 
 # dfmp3
